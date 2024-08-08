@@ -9,15 +9,17 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  margin-top: 100px;
 }
 
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 400px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  justify-content: center;
 }
 
 /* Contacto */
